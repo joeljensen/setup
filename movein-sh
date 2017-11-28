@@ -1,0 +1,92 @@
+xcode-select --install
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew tap caskroom/cask
+
+
+brew cask install flux
+brew cask install 1password
+brew cask install 7zx
+brew cask install unrarx
+brew cask install colloquy
+brew cask install shrook
+brew cask install slack
+brew cask install unison
+brew cask install ishowu-instant
+brew cask install iterm2
+brew cask install cyberduck
+brew cask install namebench
+brew cask install amazon-music
+brew cask install disk-inventory-x
+brew cask install firefox
+brew cask install google-chrome
+brew cask install torbrowser
+brew cask install google-drive-file-stream
+brew cask install google-web-designer
+brew cask install inkscape
+brew cask install gimp
+brew cask install linein
+brew cask install silverlight
+brew cask install kitematic
+brew cask install docker
+brew cask install gitup
+brew cask install freemind
+brew cask install boostnote
+brew cask install pgadmin4
+brew cask install mongohub
+brew cask install robomongo
+brew cask install sequel-pro
+brew cask install visual-studio-code
+brew cask install rubymine
+brew cask install sublime-text
+brew cask install libreoffice
+brew cask install moom
+brew cask install orange
+brew cask install tabula
+brew cask install handbrake
+brew cask install time-sink
+brew cask install transmission
+brew cask install vlc
+brew cask install calibre
+
+brew install ansible
+brew install autoconf
+brew install automake
+brew install awscli
+brew install chromedriver
+brew install cmake
+brew install cowsay
+brew install dict
+brew install gettext
+brew install gnu-getopt
+brew install gnupg
+brew install googler
+brew install hub
+brew install imagemagick
+brew install jpeg
+brew install libdvdcss
+brew install libffi
+brew install libpng
+brew install libssh2
+brew install libtiff
+brew install libtool
+brew install libxml2
+brew install libxslt
+brew install libyaml
+brew install locateme
+brew install lynx
+brew install openssl
+brew install pandoc
+brew install pcre
+brew install ponysay
+brew install postgresql
+brew install rbenv
+brew install readline
+brew install ruby-build
+brew install socat
+brew install thefuck
+brew install tree
+brew install wget
+
+gem install pru
+
+
